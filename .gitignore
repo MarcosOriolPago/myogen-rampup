@@ -1,0 +1,7 @@
+myogen/
+.venv/
+data/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+setup.log
